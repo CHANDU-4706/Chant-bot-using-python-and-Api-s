@@ -2,7 +2,7 @@
 This my intern project crated a chat bot using python and with the helf of api's data
 Here are the **steps explaining how your ChatGPT terminal chatbot works**:
 
----
+--
 
 ### **1. Import the OpenAI Library**
 ```python
